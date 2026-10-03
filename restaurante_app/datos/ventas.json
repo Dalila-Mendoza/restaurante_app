@@ -1,0 +1,26 @@
+[
+  {
+    "id_venta": "V001",
+    "usuario": "Administrador",
+    "producto": "Encebollado",
+    "fecha": "2026-09-26 12:54"
+  },
+  {
+    "id_venta": "V002",
+    "usuario": "Administrador",
+    "producto": "Jugo de Maracuyá",
+    "fecha": "2026-09-26 12:54"
+  },
+  {
+    "id_venta": "V003",
+    "usuario": "Administrador",
+    "producto": "Hamburgesa",
+    "fecha": "2026-09-26 12:54"
+  },
+  {
+    "id_venta": "V004",
+    "usuario": "Administrador",
+    "producto": "Encebollado",
+    "fecha": "2026-09-26 12:54"
+  }
+]

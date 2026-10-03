@@ -1,0 +1,42 @@
+[
+  {
+    "id": "V001",
+    "fecha": "2026-09-26 12:54",
+    "producto_id": "P002",
+    "producto": "Encebollado",
+    "cantidad": 2,
+    "total": 16.0,
+    "vendedor": "Administrador",
+    "vendedor_id": "01"
+  },
+  {
+    "id": "V002",
+    "fecha": "2026-09-26 12:54",
+    "producto_id": "P003",
+    "producto": "Jugo de Maracuyá",
+    "cantidad": 1,
+    "total": 2.5,
+    "vendedor": "Administrador",
+    "vendedor_id": "01"
+  },
+  {
+    "id": "V003",
+    "fecha": "2026-09-26 12:54",
+    "producto_id": "P10",
+    "producto": "Hamburgesa",
+    "cantidad": 3,
+    "total": 10.5,
+    "vendedor": "Administrador",
+    "vendedor_id": "01"
+  },
+  {
+    "id": "V004",
+    "fecha": "2026-09-26 12:54",
+    "producto_id": "P002",
+    "producto": "Encebollado",
+    "cantidad": 2,
+    "total": 16.0,
+    "vendedor": "Administrador",
+    "vendedor_id": "01"
+  }
+]

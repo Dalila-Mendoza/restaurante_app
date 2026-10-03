@@ -1,0 +1,30 @@
+[
+  {
+    "id_usuario": "01",
+    "nombre": "Administrador",
+    "usuario": "administradora",
+    "contraseña": "0804243798",
+    "rol": "Propietario"
+  },
+  {
+    "id_usuario": "02",
+    "nombre": "Trabajador",
+    "usuario": "Trabajador",
+    "contraseña": "123456789",
+    "rol": "Empleado"
+  },
+  {
+    "id_usuario": "03",
+    "nombre": "Daniela Mendoza",
+    "usuario": "Dani",
+    "contraseña": "cliente1",
+    "rol": "Cliente"
+  },
+  {
+    "id_usuario": "04",
+    "nombre": "Angel",
+    "usuario": "Angell",
+    "contraseña": "angell",
+    "rol": "Cliente"
+  }
+]

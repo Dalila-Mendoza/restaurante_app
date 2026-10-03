@@ -1,0 +1,37 @@
+[
+  {
+    "codigo": "P001",
+    "nombre": "Ceviche de Camarón",
+    "categoria": "Platos Fuertes",
+    "precio": 12.5,
+    "stock": 21
+  },
+  {
+    "codigo": "P002",
+    "nombre": "Encebollado",
+    "categoria": "Platos Fuertes",
+    "precio": 8.0,
+    "stock": 6
+  },
+  {
+    "codigo": "P003",
+    "nombre": "Jugo de Maracuyá",
+    "categoria": "Bebidas",
+    "precio": 2.5,
+    "stock": 48
+  },
+  {
+    "codigo": "P005",
+    "nombre": "Tres leches",
+    "categoria": "Postres",
+    "precio": 2.5,
+    "stock": 12
+  },
+  {
+    "codigo": "P10",
+    "nombre": "Hamburgesa",
+    "categoria": "Comida",
+    "precio": 3.5,
+    "stock": 12
+  }
+]
